@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="network.net.xml"/>
+        <route-files value="routes.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="tripinfo.xml"/>
+        <emission-output value="emissions.xml"/>
+    </output>
+</configuration>

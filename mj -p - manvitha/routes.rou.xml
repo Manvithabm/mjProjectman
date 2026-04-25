@@ -1,0 +1,68 @@
+<routes>
+
+    <vType id="car"
+           accel="1.0"
+           decel="4.5"
+           maxSpeed="18.0"
+           emissionClass="HBEFA3/PC_G_EU6"/>
+    <route id="r0" edges="A0A1 A1A2 A2B2 B2B1"/>
+<route id="r1" edges="A0A1 A1A2 A2B2 B2C2"/>
+<route id="r2" edges="A0A1 A1B1 B1B0 B0C0"/>
+<route id="r3" edges="A0A1 A1B1 B1B2 B2A2"/>
+<route id="r4" edges="A0A1 A1B1 B1B2 B2C2"/>
+<route id="r5" edges="A0A1 A1B1 B1C1 C1C0"/>
+<route id="r6" edges="A0A1 A1B1 B1C1 C1C2"/>
+<route id="r7" edges="A0B0 B0B1 B1A1 A1A2"/>
+<route id="r8" edges="A0B0 B0B1 B1B2 B2A2"/>
+<route id="r9" edges="A0B0 B0B1 B1B2 B2C2"/>
+<vehicle id="veh0" type="car" route="r0" depart="0" />
+<vehicle id="veh1" type="car" route="r1" depart="1" />
+<vehicle id="veh2" type="car" route="r2" depart="2" />
+<vehicle id="veh3" type="car" route="r3" depart="3" />
+<vehicle id="veh4" type="car" route="r4" depart="4" />
+<vehicle id="veh5" type="car" route="r5" depart="5" />
+<vehicle id="veh6" type="car" route="r6" depart="6" />
+<vehicle id="veh7" type="car" route="r7" depart="7" />
+<vehicle id="veh8" type="car" route="r8" depart="8" />
+<vehicle id="veh9" type="car" route="r9" depart="9" />
+<vehicle id="veh10" type="car" route="r0" depart="10" />
+<vehicle id="veh11" type="car" route="r1" depart="11" />
+<vehicle id="veh12" type="car" route="r2" depart="12" />
+<vehicle id="veh13" type="car" route="r3" depart="13" />
+<vehicle id="veh14" type="car" route="r4" depart="14" />
+<vehicle id="veh15" type="car" route="r5" depart="15" />
+<vehicle id="veh16" type="car" route="r6" depart="16" />
+<vehicle id="veh17" type="car" route="r7" depart="17" />
+<vehicle id="veh18" type="car" route="r8" depart="18" />
+<vehicle id="veh19" type="car" route="r9" depart="19" />
+<vehicle id="veh20" type="car" route="r0" depart="20" />
+<vehicle id="veh21" type="car" route="r1" depart="21" />
+<vehicle id="veh22" type="car" route="r2" depart="22" />
+<vehicle id="veh23" type="car" route="r3" depart="23" />
+<vehicle id="veh24" type="car" route="r4" depart="24" />
+<vehicle id="veh25" type="car" route="r5" depart="25" />
+<vehicle id="veh26" type="car" route="r6" depart="26" />
+<vehicle id="veh27" type="car" route="r7" depart="27" />
+<vehicle id="veh28" type="car" route="r8" depart="28" />
+<vehicle id="veh29" type="car" route="r9" depart="29" />
+<vehicle id="veh30" type="car" route="r0" depart="30" />
+<vehicle id="veh31" type="car" route="r1" depart="31" />
+<vehicle id="veh32" type="car" route="r2" depart="32" />
+<vehicle id="veh33" type="car" route="r3" depart="33" />
+<vehicle id="veh34" type="car" route="r4" depart="34" />
+<vehicle id="veh35" type="car" route="r5" depart="35" />
+<vehicle id="veh36" type="car" route="r6" depart="36" />
+<vehicle id="veh37" type="car" route="r7" depart="37" />
+<vehicle id="veh38" type="car" route="r8" depart="38" />
+<vehicle id="veh39" type="car" route="r9" depart="39" />
+<vehicle id="veh40" type="car" route="r0" depart="40" />
+<vehicle id="veh41" type="car" route="r1" depart="41" />
+<vehicle id="veh42" type="car" route="r2" depart="42" />
+<vehicle id="veh43" type="car" route="r3" depart="43" />
+<vehicle id="veh44" type="car" route="r4" depart="44" />
+<vehicle id="veh45" type="car" route="r5" depart="45" />
+<vehicle id="veh46" type="car" route="r6" depart="46" />
+<vehicle id="veh47" type="car" route="r7" depart="47" />
+<vehicle id="veh48" type="car" route="r8" depart="48" />
+<vehicle id="veh49" type="car" route="r9" depart="49" />
+</routes>
